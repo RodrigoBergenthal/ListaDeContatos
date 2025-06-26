@@ -1,6 +1,6 @@
-# Tarefa 31
+# ListaDeContatos
 
-Tarefa 31 é uma aplicação de gerenciamento de contatos desenvolvida com React, Redux e Styled Components. A aplicação permite que os usuários cadastrem, editem, removam e filtrem contatos. A interface é estilizada com uma temática cyberpunk.
+Uma aplicação de gerenciamento de contatos desenvolvida com React, Redux e Styled Components. A aplicação permite que os usuários cadastrem, editem, removam e filtrem contatos. A interface é estilizada com uma temática cyberpunk.
 
 ## Funcionalidades
 
